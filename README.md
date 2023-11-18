@@ -1,5 +1,7 @@
-## Report Link: https://github.com/tanvir0908/Transfer_Learning_For_Bangladeshi_Vehicle_Classification/blob/main/Transfer_Learning_For_Bangladeshi_Vehicle_Classification_Report.pdf
+## Report Link: 
+-https://github.com/tanvir0908/Transfer_Learning_For_Bangladeshi_Vehicle_Classification/blob/main/Transfer_Learning_For_Bangladeshi_Vehicle_Classification_Report.pdf
 
+## Features:
 Bangladesh Has different kinds and large number
 of vehicles. To classify them correctly it needs to have a good
 data set and classification algorithm. In this project we proposed to
